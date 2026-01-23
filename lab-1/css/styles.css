@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap');
+
+header h2 {
+    text-align: center;
+    font-family: "News Cycle", cursive;
+    transform: scaleY(4.3);
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+}
+
+header p {
+    padding: 5px;
+    margin-top: 4%;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-weight: 1000;
+    font-size: 27px;
+    text-transform: uppercase;
+    word-spacing: 10px;
+}
+
+header h1 {
+    text-align: left;
+    display: inline-block;
+    margin-left: 70px;
+    border: 2px solid black;
+    font-size: 35px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+
+}
+main {
+    column-count: 3;
+    column-gap: 40px;
+    column-width: 20px;
+    margin-left: 65px;
+    margin-right: 65px;
+    font-size: 15px;
+}
+main h4 {
+    font-weight: bold;
+}
