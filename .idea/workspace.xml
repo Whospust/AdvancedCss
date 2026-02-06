@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="first commit">
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="lesson-5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-2/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-2/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Whospust"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Whospust/AdvancedCss.git",
+    "accountId": "3f1ea7d9-c797-4acb-aac0-47d21f7f1e49"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -73,7 +87,7 @@
       <updated>1767966407876</updated>
       <workItem from="1767966408900" duration="4347000" />
       <workItem from="1769173959327" duration="8316000" />
-      <workItem from="1770387690043" duration="2660000" />
+      <workItem from="1770387690043" duration="6057000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -107,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769180796992</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson-5">
+      <option name="closed" value="true" />
+      <created>1770390377173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770390377173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="lesson-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson-5" />
   </component>
 </project>
