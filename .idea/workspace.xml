@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="started image block">
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="decided to restart with woman's day page, because the page with train is way too hard">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/img/hunter-harrison.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/img/model.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="6813000" />
+      <workItem from="1773330188528" duration="8346000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -239,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773334179078</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="decided to restart with woman's day page, because the page with train is way too hard">
+      <option name="closed" value="true" />
+      <created>1773337950075</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1773337950075</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +278,7 @@
     <MESSAGE value="have started header" />
     <MESSAGE value="started header h1" />
     <MESSAGE value="started image block" />
-    <option name="LAST_COMMIT_MESSAGE" value="started image block" />
+    <MESSAGE value="decided to restart with woman's day page, because the page with train is way too hard" />
+    <option name="LAST_COMMIT_MESSAGE" value="decided to restart with woman's day page, because the page with train is way too hard" />
   </component>
 </project>

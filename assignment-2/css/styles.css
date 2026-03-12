@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-size: 14px;
+}
+#container {
+    align-content: center;
+    margin: 0 500px 0 500px;
+}
+header > p {
+    position: absolute;
+    top: 20px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+header > h1 {
+    font-size: 125px;
+    text-transform: lowercase;
+    font-weight: normal;
+    color: rgba(255, 69, 0, 0.78);
+    white-space: nowrap;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 4fr 6fr;
+}
