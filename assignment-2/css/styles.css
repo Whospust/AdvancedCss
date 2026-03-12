@@ -25,3 +25,14 @@ main {
     display: grid;
     grid-template-columns: 4fr 6fr;
 }
+
+/* first column code */
+main > aside:first-of-type {
+    grid-column: 1;
+    grid-row: 1;
+}
+main > aside:last-of-type {
+    grid-column: 1;
+    grid-row: 2;
+}
+
