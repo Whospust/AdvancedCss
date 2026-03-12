@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="Lab-2">
-      <change afterPath="$PROJECT_DIR$/assignment-2/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment-2/img/hunter-harrison.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment-2/road-well-travelled.html" afterDir="false" />
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="started assignment 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,7 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="2004000" />
+      <workItem from="1773330188528" duration="2962000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -186,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770394093007</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="started assignment 2">
+      <option name="closed" value="true" />
+      <created>1773332484094</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773332484094</updated>
+    </task>
+    <task id="LOCAL-00013" summary="started assignment 2">
+      <option name="closed" value="true" />
+      <created>1773332488708</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773332488708</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +222,7 @@
     <MESSAGE value="lab-2 submition" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Lab-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab-2" />
+    <MESSAGE value="started assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="started assignment 2" />
   </component>
 </project>
