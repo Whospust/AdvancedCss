@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="started assignment 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="did some container basics which might fix over time">
       <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,7 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="2962000" />
+      <workItem from="1773330188528" duration="3295000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -199,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773332488708</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="cleared everything because its easier to start from zero again rather than fixing what I did">
+      <option name="closed" value="true" />
+      <created>1773333349004</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773333349004</updated>
+    </task>
+    <task id="LOCAL-00015" summary="did some container basics which might fix over time">
+      <option name="closed" value="true" />
+      <created>1773333465282</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773333465282</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +238,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Lab-2" />
     <MESSAGE value="started assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="started assignment 2" />
+    <MESSAGE value="cleared everything because its easier to start from zero again rather than fixing what I did" />
+    <MESSAGE value="did some container basics which might fix over time" />
+    <option name="LAST_COMMIT_MESSAGE" value="did some container basics which might fix over time" />
   </component>
 </project>
