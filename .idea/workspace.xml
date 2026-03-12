@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="have started header" />
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="started header h1">
+      <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,7 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="3610000" />
+      <workItem from="1773330188528" duration="3958000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -220,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773333808292</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="started header h1">
+      <option name="closed" value="true" />
+      <created>1773334122296</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773334122296</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +257,7 @@
     <MESSAGE value="cleared everything because its easier to start from zero again rather than fixing what I did" />
     <MESSAGE value="did some container basics which might fix over time" />
     <MESSAGE value="have started header" />
-    <option name="LAST_COMMIT_MESSAGE" value="have started header" />
+    <MESSAGE value="started header h1" />
+    <option name="LAST_COMMIT_MESSAGE" value="started header h1" />
   </component>
 </project>
