@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-size: 14px;
+    font-size: 16px;
 }
 #container {
     align-content: center;
@@ -73,16 +73,80 @@ aside > p > em {
 }
 
 /* second column code */
+
+/*
+first row in the second column
+ */
 main > section:first-of-type {
     grid-column: 2;
     grid-row: 1;
 }
+main > section:first-of-type > h2{
+    font-size: 50px;
+    text-transform: lowercase;
+    font-weight: normal;
+    border-top: 20px solid #599521;
+}
+
+main > section:first-of-type > ol > li > h3{
+    color: #599521;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+li h3, li p {
+    display: inline;
+}
+li {
+    margin-bottom: 12px;
+}
+li::marker {
+    font-weight: bold;
+}
+
+
+/*
+second row in the second column
+ */
 
 main > section:nth-of-type(2) {
     grid-column: 2;
     grid-row: 2;
 }
+
+main > section:nth-of-type(2) > h2{
+    font-size: 50px;
+    text-transform: lowercase;
+    font-weight: normal;
+    border-top: 20px solid #e32e98;
+}
+
+main > section:nth-of-type(2) > ol > li > h3{
+    color: #e32e98;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+
+
+
+/*
+third row in the second column
+ */
 main > section:nth-of-type(3) {
     grid-column: 2;
     grid-row: 3;
+}
+
+main > section:nth-of-type(3) > h2{
+    font-size: 50px;
+    text-transform: lowercase;
+    font-weight: normal;
+    border-top: 20px solid #1193b8;
+}
+
+main > section:nth-of-type(3) > ol > li > h3{
+    color: #1193b8;
+    text-transform: uppercase;
+    white-space: nowrap;
 }
