@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="decided to restart with woman's day page, because the page with train is way too hard">
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="created layout for the first column">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/img/hunter-harrison.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/img/model.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/img/model.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,7 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="8346000" />
+      <workItem from="1773330188528" duration="10944000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -249,7 +249,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773337950075</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="so far good result, added two columns and big header">
+      <option name="closed" value="true" />
+      <created>1773339443814</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773339443814</updated>
+    </task>
+    <task id="LOCAL-00021" summary="created layout for the first column">
+      <option name="closed" value="true" />
+      <created>1773339694119</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773339694119</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +295,8 @@
     <MESSAGE value="started header h1" />
     <MESSAGE value="started image block" />
     <MESSAGE value="decided to restart with woman's day page, because the page with train is way too hard" />
-    <option name="LAST_COMMIT_MESSAGE" value="decided to restart with woman's day page, because the page with train is way too hard" />
+    <MESSAGE value="so far good result, added two columns and big header" />
+    <MESSAGE value="created layout for the first column" />
+    <option name="LAST_COMMIT_MESSAGE" value="created layout for the first column" />
   </component>
 </project>
