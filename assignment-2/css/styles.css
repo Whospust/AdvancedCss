@@ -4,3 +4,16 @@
     font-weight: 400;
     font-style: normal;
 }
+
+#container {
+    display: grid;
+    grid-template-columns: 500px 1fr 1fr;
+    column-gap: 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 60px;
+}
+
+header {
+}
