@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="done second column and added google font">
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/week-9/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,8 @@
       <workItem from="1769173959327" duration="8316000" />
       <workItem from="1770387690043" duration="6737000" />
       <workItem from="1771592876557" duration="7681000" />
-      <workItem from="1773330188528" duration="12987000" />
+      <workItem from="1773330188528" duration="13656000" />
+      <workItem from="1773404387466" duration="5622000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -279,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773343670537</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1773344034472</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1773344034472</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +323,7 @@
     <MESSAGE value="created layout for the first column" />
     <MESSAGE value="done layout for the first column" />
     <MESSAGE value="done second column and added google font" />
-    <option name="LAST_COMMIT_MESSAGE" value="done second column and added google font" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
