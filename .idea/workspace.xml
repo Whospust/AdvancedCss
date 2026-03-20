@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/week-9/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-9/index.html" afterDir="false" />
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="base">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/css/accordion.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/css/accordion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/js/accordion2.js" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/js/accordion2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +72,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-10/js" />
       <recent name="$PROJECT_DIR$/assignment-2/img" />
       <recent name="$PROJECT_DIR$/assignment-2" />
       <recent name="$PROJECT_DIR$/lesson-1/css" />
@@ -96,6 +98,7 @@
       <workItem from="1771592876557" duration="7681000" />
       <workItem from="1773330188528" duration="13656000" />
       <workItem from="1773404387466" duration="5622000" />
+      <workItem from="1774009078136" duration="5799000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -289,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773344034472</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="base">
+      <option name="closed" value="true" />
+      <created>1774009312548</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1774009312548</updated>
+    </task>
+    <task id="LOCAL-00026" summary="base">
+      <option name="closed" value="true" />
+      <created>1774009337739</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1774009337739</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +343,7 @@
     <MESSAGE value="done layout for the first column" />
     <MESSAGE value="done second column and added google font" />
     <MESSAGE value="final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+    <MESSAGE value="base" />
+    <option name="LAST_COMMIT_MESSAGE" value="base" />
   </component>
 </project>
