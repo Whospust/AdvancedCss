@@ -24,9 +24,11 @@ table tbody tr td:nth-child(5) {
     background-color: darkgrey;
     color: black;
     font-weight: bolder;
+    border: 1px solid white;
 }
 td {
     color: #00004e;
+    font-weight: lighter;
 }
 table tbody td:nth-child(2) {
     color: black;
@@ -47,6 +49,6 @@ thead {
 }
 
 /* Creates a zebra*/
-tbody tr:nth-child(even) {
-    background-color: rgb(0,0,0, 0.025);
+tbody tr:nth-child(odd) {
+    background-color: rgb(0,0,0, 0.05);
 }
