@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="init commit for lab-4">
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="created thead and colgroup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-4/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab-4/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab-4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,7 @@
       <workItem from="1775651191302" duration="1279000" />
       <workItem from="1775661526604" duration="1511000" />
       <workItem from="1775687271512" duration="3117000" />
-      <workItem from="1775746588893" duration="385000" />
+      <workItem from="1775746588893" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -353,7 +355,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775746714744</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="done with head el in html">
+      <option name="closed" value="true" />
+      <created>1775747030567</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1775747030567</updated>
+    </task>
+    <task id="LOCAL-00032" summary="created thead and colgroup">
+      <option name="closed" value="true" />
+      <created>1775747343234</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1775747343234</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,6 +410,8 @@
     <MESSAGE value="done lesson 10 job" />
     <MESSAGE value="done lab-3" />
     <MESSAGE value="init commit for lab-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit for lab-4" />
+    <MESSAGE value="done with head el in html" />
+    <MESSAGE value="created thead and colgroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="created thead and colgroup" />
   </component>
 </project>
