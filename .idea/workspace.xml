@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab-3/css/lab3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/js/lab3.js" afterDir="false" />
+    <list default="true" id="090e147b-7b91-4b16-9094-799d22b3774e" name="Changes" comment="done lab-3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +17,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -106,7 +103,13 @@
       <workItem from="1773330188528" duration="13656000" />
       <workItem from="1773404387466" duration="5622000" />
       <workItem from="1774009078136" duration="7768000" />
-      <workItem from="1774044608824" duration="1645000" />
+      <workItem from="1774044608824" duration="1795000" />
+      <workItem from="1774612743485" duration="8569000" />
+      <workItem from="1775609421619" duration="168000" />
+      <workItem from="1775609852113" duration="1958000" />
+      <workItem from="1775651191302" duration="1279000" />
+      <workItem from="1775661526604" duration="1511000" />
+      <workItem from="1775687271512" duration="3117000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -324,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774016151381</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="done lab-3">
+      <option name="closed" value="true" />
+      <created>1774054099656</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1774054099656</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +372,7 @@
     <MESSAGE value="final commit" />
     <MESSAGE value="base" />
     <MESSAGE value="done lesson 10 job" />
-    <option name="LAST_COMMIT_MESSAGE" value="done lesson 10 job" />
+    <MESSAGE value="done lab-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done lab-3" />
   </component>
 </project>
